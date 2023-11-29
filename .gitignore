@@ -1,0 +1,6 @@
+.venv
+test500.ann
+base.csv
+train.csv
+validation_answer.csv
+validation.csv
